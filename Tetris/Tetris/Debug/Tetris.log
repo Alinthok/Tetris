@@ -1,0 +1,103 @@
+﻿  pch.cpp
+  Drawer.cpp
+  Game.cpp
+  GameOver.cpp
+  GameStates.cpp
+  Grid.cpp
+C:\Users\INTEL\source\repos\Tetris\Tetris\Grid.cpp(6): warning C4018: '<': signed/unsigned mismatch
+C:\Users\INTEL\source\repos\Tetris\Tetris\Grid.cpp(8): warning C4018: '<': signed/unsigned mismatch
+C:\Users\INTEL\source\repos\Tetris\Tetris\Grid.cpp(19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\INTEL\source\repos\Tetris\Tetris\Grid.cpp(21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\INTEL\source\repos\Tetris\Tetris\Grid.cpp(135): warning C4018: '<': signed/unsigned mismatch
+C:\Users\INTEL\source\repos\Tetris\Tetris\Grid.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  HighScore.cpp
+  HighScoreName.cpp
+C:\Users\INTEL\source\repos\Tetris\Tetris\HighScoreName.cpp(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\INTEL\source\repos\Tetris\Tetris\HighScoreName.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\INTEL\source\repos\Tetris\Tetris\HighScoreName.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\INTEL\source\repos\Tetris\Tetris\HighScoreName.cpp(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  InstanceManager.cpp
+  LevelSelect.cpp
+C:\Users\INTEL\source\repos\Tetris\Tetris\LevelSelect.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\INTEL\source\repos\Tetris\Tetris\LevelSelect.cpp(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Piece.cpp
+  Render.cpp
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(129): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(155): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(156): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(157): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\INTEL\source\repos\Tetris\Tetris\Render.cpp(158): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Score.cpp
+  ShapeList.cpp
+  Tetris.cpp
+  Tetromino.cpp
+  Timer.cpp
+C:\Users\INTEL\source\repos\Tetris\Tetris\Timer.cpp(6): warning C4018: '<': signed/unsigned mismatch
+  TitleScreen.cpp
+  Generating Code...
+  Tetris.vcxproj -> C:\Users\INTEL\source\repos\Tetris\Debug\Tetris.exe
